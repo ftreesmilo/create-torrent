@@ -22,7 +22,8 @@ const announceList = [
   ['udp://explodie.org:6969'],
   ['udp://tracker.empire-js.us:1337'],
   ['wss://tracker.btorrent.xyz'],
-  ['wss://tracker.openwebtorrent.com']
+  ['wss://tracker.openwebtorrent.com'],
+  ['wss://tracker.fastcast.nz']
 ]
 
 /**
